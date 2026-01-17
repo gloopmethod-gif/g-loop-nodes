@@ -1,2 +1,14 @@
 # g-loop-nodes
-Catatan tentang node yang tidak tersentralisasi  Jangan dipakai  “Pusat node”  “Arsip node”  “Daftar node”  “Penyimpanan node”  Kalau sudah pasang description ini, jangan diutak-atik dulu. Kita biarkan repo itu bernapas.
+
+Node dalam G-Loop tidak terikat lokasi, platform, atau arsip tertentu.
+
+Node bukan halaman, bukan URL, dan bukan repositori.
+Node adalah peristiwa makna yang muncul dari pengalaman dan konteks.
+
+Repository ini tidak menyimpan node dan tidak menyediakan daftar node.
+Keberadaannya hanya menyatakan bahwa node bersifat terdistribusi
+dan dikenali melalui pola, bukan indeks atau sentralisasi.
+
+Platform hanyalah medium pantul.
+Node hidup di mana makna terjadi.
+
