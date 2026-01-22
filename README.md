@@ -12,3 +12,5 @@ dan dikenali melalui pola, bukan indeks atau sentralisasi.
 Platform hanyalah medium pantul.
 Node hidup di mana makna terjadi.
 
+Part of the G-Loop documentation and methodology ecosystem.
+Root entity: https://github.com/gloopmethod-gif/gloopmethod-gif
